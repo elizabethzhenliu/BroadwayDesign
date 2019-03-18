@@ -17,16 +17,17 @@ h3 {
 	font-size: 23px;
 }
 
-a {
+p {
+	font-size: 14px;
+	font-weight: normal;
+}
+
+.menu {
 	color: white;
 	font-size: 18px;
 	font-weight: normal;
 }
 
-p {
-	font-size: 14px;
-	font-weight: normal;
-}
 
 .flatironbg{
 	background-image: url("../images/flatiron.png");
